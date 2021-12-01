@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Trigger
+  - Trap
+  - Key
+  - Door
+  - Wall
+  - PrisonKey
+  - PlayerFeet
+  - Clairvoyance
+  - Teleporter
+  - Stun
+  - FallingStone
+  - FallingRock
+  - HealingStone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Trigger
+  - Background
+  - Wall
+  - Trap
+  - Player
+  - PostProcessing
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall
+    uniqueID: 2825216877
+    locked: 0
+  - name: Boss
+    uniqueID: 2080884639
+    locked: 0
+  - name: Flashlight
+    uniqueID: 3678316241
+    locked: 0
+  - name: Traps
+    uniqueID: 1230946417
+    locked: 0
+  - name: Blinder
+    uniqueID: 953835635
+    locked: 0
+  - name: Player
+    uniqueID: 1771906637
+    locked: 0
+  - name: Blocker
+    uniqueID: 1933854621
+    locked: 0
+  - name: BlueLayer
+    uniqueID: 1456656297
+    locked: 0
